@@ -16,5 +16,5 @@ Design:
 Adobe Photoshop CC 2019
 UI:
 Java Swing
-A Special Thanks to : Junaed Younus Khan Sir ❤️
+A Special Thanks to : Junaed Younus Khan Sir
 View: https://youtu.be/v-lgxf4bpPI
